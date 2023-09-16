@@ -21,6 +21,13 @@
     <a href="https://www.linkedin.com/in/lorddev-%E3%85%A4-450136280/">
       <img src="https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="Linkedin">
     </a>
+    <!-- SNAKE -->
+      <div align="center">
+            <a href="#intro">
+                  <img alt="Snake" title="Snake commits" 
+                  src="https://github.com/thelorddev/thelorddev/blob/output/github-snake-dark.svg"/>
+            </a>
+      </div>
 </div>
     <h2></h2>
     <div style="display: inline_block">
