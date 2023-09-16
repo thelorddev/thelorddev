@@ -15,11 +15,14 @@
 
   <div id="content">
     <!-- REDES SOCIAIS -->
-    <a href="https://www.youtube.com/channel/UCPl5lWS2qLbbmaxQsUvGjhQ">
-      <img src="https://img.shields.io/badge/YouTube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="Youtube">
     </a>
     <a href="https://www.linkedin.com/in/lorddev-%E3%85%A4-450136280/">
       <img src="https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="Linkedin">
+    <a href="https://www.youtube.com/channel/UCPl5lWS2qLbbmaxQsUvGjhQ">
+      <img src="https://img.shields.io/badge/YouTube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="Youtube">
+    </a>
+        <a href="https://discord.com/channels/@me/889559317320171561">
+      <img src="https://img.shields.io/badge/Discord-14151f?style=for-the-badge&logo=discord&logoColor=7289da" alt="Discord">
     </a>
     <!-- SNAKE -->
       <div align="center">
@@ -37,17 +40,24 @@
       <img align="center" alt="LordDev-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </div>
     <h2></h2>
-    <a href="https://discord.com/channels/@me/889559317320171561">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <h2></h2>
+    <!-- GITHUB STATS -->
     <img src="https://github-readme-stats.vercel.app/api?username=thelorddev&show_icons=true&bg_color=00000000" alt="GitHub Stats">
     <div>
       <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelorddev&layout=compact&bg_color=00000000" alt="Top Languages">
   <div>
+    <!-- SPOTIFY STATS -->
   <h2>Ouvindo Spotify 🎧<h2>
     <a href="https://open.spotify.com/user/LordDev">
       <img src="https://novatorem-d32ft5ni8-thelorddev.vercel.app/api/spotify" alt="Youtube">
     </div>
   </div>
+      </details>
+      </strong>
+      </em>
+    <!-- RODAPÉ -->
+      <a href="#api" title=" ">
+            <img alt="Capsule Render" width="100%"
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=eaeaf1&color=40:101358,100:08084d&height=120&section=footer&fontSize=50&animation=fadeI"/>
+      </a>
+</div>
 </body>
