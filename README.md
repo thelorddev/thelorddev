@@ -89,19 +89,7 @@
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Tools" 
-                                    src="https://skillicons.dev/icons?i=git,github"/>
-                        </a>
-                  </td>
-            </tr>
-            <!-- CODE EDITORES/IDE -->
-            <tr align="center">
-                  <th>
-                        Code Editors
-                  </th>
-                  <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Code Editors/IDE" 
-                                    src="https://skillicons.dev/icons?i=vscode"/>
+                                    src="https://skillicons.dev/icons?i=github"/>
                         </a>
                   </td>
             </tr>
@@ -120,18 +108,18 @@
                               </a>
                         </div>
                   </td>
-            </tr>
-            <!-- COMMAND LINE -->
+            <!-- CODE EDITORES -->
             <tr align="center">
                   <th>
-                        Command Line
+                        Code Editors
                   </th>
                   <td>
                         <a href="#tools" >
-                              <img alt="Front-end tools" title="Command Line" 
-                                    src="https://skillicons.dev/icons?i=powershell,bash"/>
+                              <img alt="Front-end tools" title="Code Editors/IDE" 
+                                    src="https://skillicons.dev/icons?i=vscode,powershell"/>
                         </a>
                   </td>
+            </tr>            
             </tr>
       </table>
 </div>
