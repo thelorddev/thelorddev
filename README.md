@@ -42,8 +42,6 @@
       <h2 id="tools">
             <em><strong>Minhas Ferramentas e Linguagens</strong></em>
             <a href="#tools" title=" ">
-                  <img alt="pc" width="20px"
-                  src="./assets/pc.gif"/>
             </a>
       </h2>
       <table width="100%">
@@ -55,7 +53,7 @@
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Front-end"
-                              src="https://skillicons.dev/icons?i=js,html,css,sass"/>
+                              src="https://skillicons.dev/icons?i=js,html,css"/>
                         </a>
                   </td>
             </tr>
@@ -67,19 +65,7 @@
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Back-end"
-                              src="https://skillicons.dev/icons?i=java,php"/>
-                        </a>
-                  </td>
-            </tr>
-            <!-- FRAMEWORKS AND LIBS -->
-            <tr align="center">
-                  <th>
-                        Frameworks and Libs
-                  </th>
-                  <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Frameworks and Libs" 
-                                    src="https://skillicons.dev/icons?i=spring,laravel,bootstrap"/>
+                              src="https://skillicons.dev/icons?i=py"/>
                         </a>
                   </td>
             </tr>
@@ -91,7 +77,7 @@
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Data Base" 
-                                    src="https://skillicons.dev/icons?i=mysql"/>
+                                    src="https://skillicons.dev/icons?i=mongodb"/>
                         </a>
                   </td>
             </tr>
@@ -103,19 +89,19 @@
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Tools" 
-                                    src="https://skillicons.dev/icons?i=git,github,md,figma,maven"/>
+                                    src="https://skillicons.dev/icons?i=git,github"/>
                         </a>
                   </td>
             </tr>
             <!-- CODE EDITORES/IDE -->
             <tr align="center">
                   <th>
-                        Code Editors/IDE
+                        Code Editors
                   </th>
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Code Editors/IDE" 
-                                    src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim"/>
+                                    src="https://skillicons.dev/icons?i=vscode"/>
                         </a>
                   </td>
             </tr>
@@ -131,9 +117,6 @@
                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
                               </a> 
                               &nbsp;
-                              <a href="#tools" title=" ">
-                                    <img height="45" width="45" alt="Ubuntu icon" title="Workspace"
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
                               </a>
                         </div>
                   </td>
@@ -147,18 +130,6 @@
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Command Line" 
                                     src="https://skillicons.dev/icons?i=powershell,bash"/>
-                        </a>
-                  </td>
-            </tr>
-            <!-- JÁ ESTUDEI -->
-            <tr align="center">
-                  <th>
-                        Já estudei
-                  </th>
-                  <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Linguagens e ferramentas que já estudei" 
-                                    src="https://skillicons.dev/icons?i=c,cpp,py"/>
                         </a>
                   </td>
             </tr>
