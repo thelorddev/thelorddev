@@ -32,6 +32,7 @@
             </a>
       </div>
 </div>
+<h1><h1>
     <!-- GITHUB STATS -->
     <img src="https://github-readme-stats.vercel.app/api?username=thelorddev&show_icons=true&bg_color=00000000" alt="GitHub Stats">
     <div>
