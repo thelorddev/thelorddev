@@ -1,5 +1,4 @@
 </head>
-
 <!-- APRESENTAÇÃO -->
 <div id="intro" align="center">
       <!-- CABEÇALHO -->
@@ -41,7 +40,7 @@
 <!-- LINGUAGENS E FERRAMENTAS -->
 <div align="center">
       <h2 id="tools">
-            <em><strong>Minhas Ferramentas e Linguagens</strong></em>
+            <h2>Minhas Ferramentas e Linguaguens<h2>
             <a href="#tools" title=" ">
             </a>
       </h2>
