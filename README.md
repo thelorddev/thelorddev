@@ -124,7 +124,7 @@
       </table>
 </div>
     <!-- SPOTIFY STATS -->
-  <h2>Ouvindo Spotify 🎧<h2>
+  <h3>Ouvindo Spotify 🎧<h3>
     <a href="https://open.spotify.com/user/LordDev">
       <img src="https://novatorem-d32ft5ni8-thelorddev.vercel.app/api/spotify" alt="Youtube">
     </div>
