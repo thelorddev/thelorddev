@@ -32,19 +32,138 @@
             </a>
       </div>
 </div>
-    <h2></h2>
-    <div style="display: inline_block">
-      <img align="center" alt="LordDev-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-      <img align="center" alt="LordDev-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="LordDev-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="LordDev-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
-    <h2></h2>
     <!-- GITHUB STATS -->
     <img src="https://github-readme-stats.vercel.app/api?username=thelorddev&show_icons=true&bg_color=00000000" alt="GitHub Stats">
     <div>
       <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelorddev&layout=compact&bg_color=00000000" alt="Top Languages">
   <div>
+<!-- LINGUAGENS E FERRAMENTAS -->
+<div align="center">
+      <h2 id="tools">
+            <em><strong>Minhas Ferramentas e Linguagens</strong></em>
+            <a href="#tools" title=" ">
+                  <img alt="pc" width="20px"
+                  src="./assets/pc.gif"/>
+            </a>
+      </h2>
+      <table width="100%">
+            <!-- FRONT-END -->
+            <tr align="center">
+                  <th>
+                        Front-end
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Front-end"
+                              src="https://skillicons.dev/icons?i=js,html,css,sass"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- BACK-END -->
+            <tr align="center">
+                  <th>
+                        Back-end
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Back-end"
+                              src="https://skillicons.dev/icons?i=java,php"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- FRAMEWORKS AND LIBS -->
+            <tr align="center">
+                  <th>
+                        Frameworks and Libs
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Frameworks and Libs" 
+                                    src="https://skillicons.dev/icons?i=spring,laravel,bootstrap"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+            <!-- DATABASE -->
+                  <th>
+                        Database
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Data Base" 
+                                    src="https://skillicons.dev/icons?i=mysql"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- TOOLS -->
+            <tr align="center">
+                  <th>
+                        Tools
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Tools" 
+                                    src="https://skillicons.dev/icons?i=git,github,md,figma,maven"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- CODE EDITORES/IDE -->
+            <tr align="center">
+                  <th>
+                        Code Editors/IDE
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Code Editors/IDE" 
+                                    src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- WORKSPACE -->
+            <tr align="center">
+                  <th>
+                        Workspace
+                  </th>
+                    <td>
+                        <div align="center" title="Workspace">
+                              <a href="#tools" title=" ">
+                                    <img height="40" width="40" alt="Windows icon" title="Workspace"
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+                              </a> 
+                              &nbsp;
+                              <a href="#tools" title=" ">
+                                    <img height="45" width="45" alt="Ubuntu icon" title="Workspace"
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+                              </a>
+                        </div>
+                  </td>
+            </tr>
+            <!-- COMMAND LINE -->
+            <tr align="center">
+                  <th>
+                        Command Line
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Command Line" 
+                                    src="https://skillicons.dev/icons?i=powershell,bash"/>
+                        </a>
+                  </td>
+            </tr>
+            <!-- JÁ ESTUDEI -->
+            <tr align="center">
+                  <th>
+                        Já estudei
+                  </th>
+                  <td>
+                        <a href="#tools" >
+                              <img alt="Front-end tools" title="Linguagens e ferramentas que já estudei" 
+                                    src="https://skillicons.dev/icons?i=c,cpp,py"/>
+                        </a>
+                  </td>
+            </tr>
+      </table>
+</div>
     <!-- SPOTIFY STATS -->
   <h2>Ouvindo Spotify 🎧<h2>
     <a href="https://open.spotify.com/user/LordDev">
