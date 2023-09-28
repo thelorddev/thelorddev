@@ -123,15 +123,6 @@
             </tr>
       </table>
 </div>
-    <!-- SPOTIFY STATS -->
-  <h3>Ouvindo Spotify 🎧<h3>
-    <a href="https://open.spotify.com/user/LordDev">
-      <img src="https://novatorem-d32ft5ni8-thelorddev.vercel.app/api/spotify" alt="Youtube">
-    </div>
-  </div>
-      </details>
-      </strong>
-      </em>
     <!-- RODAPÉ -->
       <a href="#api" title=" ">
             <img alt="Capsule Render" width="100%"
