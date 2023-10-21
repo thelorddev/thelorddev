@@ -9,7 +9,7 @@
       <!-- ESCRITA DINÂMICA -->
       <a href="#intro" title=" ">
             <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=eaeaf1&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Full-stack+Developer"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=eaeaf1&center=true&width=435&lines=Software+Enginner;Full-stack+Developer"/>
       </a>
 
   <div id="content">
