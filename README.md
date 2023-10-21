@@ -39,88 +39,67 @@
   <div>
 <!-- LINGUAGENS E FERRAMENTAS -->
 <div align="center">
-      <h2 id="tools">
-            <h2>My Lenguages and Tools<h2>
-            <a href="#tools" title=" ">
-            </a>
-      </h2>
+      <h2 id="tools">My Lenguages and Tools</h2>
+      <a href="#tools" title=" "></a>
       <table width="100%">
             <!-- FRONT-END -->
             <tr align="center">
-                  <th>
-                        Front-end
-                  </th>
+                  <th>Front-end</th>
                   <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Front-end"
-                              src="https://skillicons.dev/icons?i=js,html,css"/>
+                        <a href="#tools">
+                              <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=js,html,css"/>
                         </a>
                   </td>
             </tr>
             <!-- BACK-END -->
             <tr align="center">
-                  <th>
-                        Back-end
-                  </th>
+                  <th>Back-end</th>
                   <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Back-end"
-                              src="https://skillicons.dev/icons?i=py"/>
+                        <a href="#tools">
+                              <img alt="Front-end tools" title="Back-end" src="https://skillicons.dev/icons?i=py"/>
                         </a>
                   </td>
             </tr>
-            <tr align="center">
             <!-- DATABASE -->
-                  <th>
-                        Database
-                  </th>
+            <tr align="center">
+                  <th>Database</th>
                   <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Data Base" 
-                                    src="https://skillicons.dev/icons?i=mongodb"/>
+                        <a href="#tools">
+                              <img alt="Front-end tools" title="Data Base" src="https://skillicons.dev/icons?i=mongodb"/>
                         </a>
                   </td>
             </tr>
             <!-- TOOLS -->
             <tr align="center">
-                  <th>
-                        Tools
-                  </th>
+                  <th>Tools</th>
                   <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Tools" 
-                                    src="https://skillicons.dev/icons?i=github"/>
+                        <a href="#tools">
+                              <img alt="Front-end tools" title="Tools" src="https://skillicons.dev/icons?i=github"/>
                         </a>
                   </td>
             </tr>
             <!-- WORKSPACE -->
             <tr align="center">
-                  <th>
-                        Workspace
-                  </th>
-                    <td>
+                  <th>Workspace</th>
+                  <td>
                         <div align="center" title="Workspace">
                               <a href="#tools" title=" ">
-                                    <img height="40" width="40" alt="Windows icon" title="Workspace"
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+                                    <img height="40" width="40" alt="Windows icon" title="Workspace" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
                               </a> 
                               &nbsp;
                               </a>
                         </div>
                   </td>
-            <!-- CODE EDITORES -->
+            </tr>
+            <!-- CODE EDITORS -->
             <tr align="center">
-                  <th>
-                        Code Editors
-                  </th>
+                  <th>Code Editors</th>
                   <td>
-                        <a href="#tools" >
-                              <img alt="Front-end tools" title="Code Editors/IDE" 
-                                    src="https://skillicons.dev/icons?i=vscode,powershell"/>
+                        <a href="#tools">
+                              <img alt="Front-end tools" title="Code Editors/IDE" src="https://skillicons.dev/icons?i=vscode,powershell"/>
                         </a>
                   </td>
             </tr>            
-            </tr>
       </table>
 </div>
     <!-- RODAPÉ -->
