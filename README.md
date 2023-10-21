@@ -40,7 +40,7 @@
 <!-- LINGUAGENS E FERRAMENTAS -->
 <div align="center">
       <h2 id="tools">
-            <h2>Minhas Ferramentas e Linguaguens<h2>
+            <h2>My Lenguages and Tools<h2>
             <a href="#tools" title=" ">
             </a>
       </h2>
